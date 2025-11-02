@@ -28,4 +28,6 @@ pip3 install Pillow
   phython3 extraction.py
   ```
 
+用完记得 `deactivate` 退出虚拟环境
+
 Enjoy~
